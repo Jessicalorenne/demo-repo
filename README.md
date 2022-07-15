@@ -1,3 +1,3 @@
-#demo repository
+# Demo repository
 
-Learning to navigate git and github for my she Codes workshop exercise.
+Learning to navigate git and github for my she Codes workshop exercise and projects.
